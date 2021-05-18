@@ -29,3 +29,8 @@ npm install ejs --save
 ```
 npm install express-flash --save
 ```
+
+## Instalar o cookie-parser
+```
+npm install cookie-parser --save
+```
